@@ -29,6 +29,7 @@ Global Chat
 <br><br>
 Delta:<br>
 Delta Chat, if you are in this tab you do not need to type /d to chat in delta chat just type the message!
+If you do not want to have this chat tab/don't own the Delta rank, you can right click and delete this tab.
 <br><br>
 Activity:<br>
 Pokedollar transactions, Party Chat, Raids/Dungeons and other activities<br>
@@ -58,4 +59,4 @@ Navigate to:
 replace current config file (.json file) with the downloaded config file
 <br><br>
 Requirements<br>
-Make sure the \config\chatplus\ folder exists before pasting the config file. If not, create the folder.
+Make sure the \config\chatplus\ folder exists before pasting the config file. If not, create the folder.<br>
