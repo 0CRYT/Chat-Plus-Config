@@ -20,10 +20,8 @@ Ultra Wilds spawns<br>
 Dream Dungeon spawn message<br>
 Dream Raid spawn message<br>
 
-<img width="2535" height="1427" alt="Screenshot_87" src="https://github.com/user-attachments/assets/bf1a96cc-4f1b-4984-95a4-a48a851be1ae" />
-<br><br>
-Chat tabs:<br>
-<br><br>
+<img width="2535" height="1427" alt="Screenshot_87" src="https://github.com/user-attachments/assets/bf1a96cc-4f1b-4984-95a4-a48a851be1ae" /><br><br>
+Chat tabs:<br><br>
 Global:<br>
 Global Chat
 <br><br>
@@ -61,4 +59,12 @@ Navigate to:
 replace current config file (.json file) with the downloaded config file
 <br><br>
 Requirements<br>
-Make sure the \config\chatplus\ folder exists before pasting the config file. If not, create the folder.<br>
+Make sure the \config\chatplus\ folder exists before pasting the config file. If not, create the folder.<br><br>
+!!!ATTENTION!!!<br>
+CONFIG IS CONFIGURED AT GUI SCALE 2x<br>
+To resize and relocate chat windows press right CTRL!<br>
+Be sure to lock the afterwards again with right CTRL!<br>
+
+
+
+
