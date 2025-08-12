@@ -1,4 +1,4 @@
-Cobbelmon Delta ChatPlus Configs
+Cobbelmon Delta ChatPlus Config
 
 Features
 
