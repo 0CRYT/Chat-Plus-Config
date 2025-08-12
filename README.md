@@ -49,7 +49,7 @@ Place the following file:
 
 chatplus-v2.5.0.json
 
-Navigate to
+Navigate to:<br>
 
 <img width="2150" height="195" alt="Screenshot_1" src="https://github.com/user-attachments/assets/a0c5e26c-4814-4d2f-ad85-964ca0eac3b2" />
 
