@@ -28,7 +28,7 @@ Global:<br>
 Global Chat
 <br><br>
 Delta:<br>
-Delta Chat, if you are in this tab you do not need to type /d to chat in delta chat just type the message!
+Delta Chat, if you are in this tab you do not need to type /d to chat in delta chat just type the message!<br>
 If you do not want to have this chat tab/don't own the Delta rank, you can right click and delete this tab.
 <br><br>
 Activity:<br>
