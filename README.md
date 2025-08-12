@@ -1,4 +1,4 @@
-Cobbelmon Delta ChatPlus v2.5.0
+Cobbelmon Delta ChatPlus Configs
 
 Features
 
