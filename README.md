@@ -31,6 +31,8 @@ Delta:<br>
 Delta Chat, if you are in this tab you do not need to type /d to chat in delta chat just type the message!<br>
 If you do not want to have this chat tab/don't own the Delta rank, you can right click and delete this tab.
 <br><br>
+<img width="492" height="627" alt="Screenshot_88" src="https://github.com/user-attachments/assets/7327ecf6-9e1e-49e5-a35c-312809b94050" />
+<br><br>
 Activity:<br>
 Pokedollar transactions, Party Chat, Raids/Dungeons and other activities<br>
 If you are in this tab you do not need to type /p to chat in party chat just type the message!
