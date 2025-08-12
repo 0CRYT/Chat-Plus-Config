@@ -53,9 +53,9 @@ Navigate to:<br>
 
 <img width="2150" height="195" alt="Screenshot_1" src="https://github.com/user-attachments/assets/a0c5e26c-4814-4d2f-ad85-964ca0eac3b2" />
 
-\config\chatplus\
+\config\chatplus\<br>
 
-replace current config file with the downloaded json
+replace current config file (.json file) with the downloaded config file
 
-Requirements
+Requirements<br>
 Make sure the \config\chatplus\ folder exists before pasting the config file. If not, create the folder.
