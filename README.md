@@ -5,20 +5,20 @@ Features
 Special Spawns:
 Displays the following special events/spawns in this chat window:
 
-Nihilego Loot spawn message
-Drif Loot spawn message
-Wormhole spawn message
-Meteor Shower spawn message
-Time Ripple spawn message/collect message
-Alpha Pokemon spawn message
-Paradox Pokemon spawn message
-Space-Time-Distortion spawn message
-Meltan spawns
-Zygarde cell spawns
-Zygarde core spawns
-Ultra Wilds spawns
-Dream Dungeon spawn message
-Dream Raid spawn message
+Nihilego Loot spawn message<br>
+Drif Loot spawn message<br>
+Wormhole spawn message<br>
+Meteor Shower spawn message<br>
+Time Ripple spawn message/collect message<br>
+Alpha Pokemon spawn message<br>
+Paradox Pokemon spawn message<br>
+Space-Time-Distortion spawn message<br>
+Meltan spawns<br>
+Zygarde cell spawns<br>
+Zygarde core spawns<br>
+Ultra Wilds spawns<br>
+Dream Dungeon spawn message<br>
+Dream Raid spawn message<br>
 
 <img width="2535" height="1427" alt="Screenshot_87" src="https://github.com/user-attachments/assets/bf1a96cc-4f1b-4984-95a4-a48a851be1ae" />
 
