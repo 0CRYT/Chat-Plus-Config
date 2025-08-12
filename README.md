@@ -21,7 +21,7 @@ Dream Dungeon spawn message<br>
 Dream Raid spawn message<br>
 
 <img width="2535" height="1427" alt="Screenshot_87" src="https://github.com/user-attachments/assets/bf1a96cc-4f1b-4984-95a4-a48a851be1ae" />
-
+<br><br>
 Chat tabs:<br>
 <br><br>
 Global:<br>
