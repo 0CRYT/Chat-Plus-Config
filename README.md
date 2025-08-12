@@ -2,9 +2,9 @@ Cobbelmon Delta ChatPlus Configs
 
 Features
 
-Special Spawns:<br>
+Special Spawns:<br><br>
 Displays the following special events/spawns in this chat window:
-
+<br><br>
 Nihilego Loot spawn message<br>
 Drif Loot spawn message<br>
 Wormhole spawn message<br>
@@ -23,39 +23,39 @@ Dream Raid spawn message<br>
 <img width="2535" height="1427" alt="Screenshot_87" src="https://github.com/user-attachments/assets/bf1a96cc-4f1b-4984-95a4-a48a851be1ae" />
 
 Chat tabs:
-<br>
+<br><br>
 Global:
 Global Chat
-<br>
+<br><br>
 Delta:
 Delta Chat, if you are in this tab you do not need to type /d to chat in delta chat just type the message!
-<br>
+<br><br>
 Activity:
 Pokedollar transactions, Party Chat, Raids/Dungeons and other activities
 If you are in this tab you do not need to type /p to chat in party chat just type the message!
-<br>
+<br><br>
 Misc:
 Wondertrade, Swarms, Prof. Rowan, Legendary catches, Shiny catches
-<br>
+<br><br>
 Login:
 All login messages will be displayed in this tab
-<br>
+<br><br>
 Private Messages:
 If you type /msg "NAME" or someone else send you a /msg message, a new chat tab will open.
 If you are in this tab you do not need to type /r to chat with the person just type the message!
-<br>
+<br><br>
 Installation
 Place the following file:
-<br>
+<br><br>
 chatplus-v2.5.0.json
-<br>
+<br><br>
 Navigate to:
-<br>
+<br><br>
 <img width="2150" height="195" alt="Screenshot_1" src="https://github.com/user-attachments/assets/a0c5e26c-4814-4d2f-ad85-964ca0eac3b2" />
-<br>
+<br><br>
 \config\chatplus\
-<br>
+<br><br>
 replace current config file (.json file) with the downloaded config file
-<br>
+<br><br>
 Requirements<br>
 Make sure the \config\chatplus\ folder exists before pasting the config file. If not, create the folder.
