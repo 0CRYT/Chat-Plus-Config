@@ -31,7 +31,7 @@ Delta:<br>
 Delta Chat, if you are in this tab you do not need to type /d to chat in delta chat just type the message!
 <br><br>
 Activity:<br>
-Pokedollar transactions, Party Chat, Raids/Dungeons and other activities
+Pokedollar transactions, Party Chat, Raids/Dungeons and other activities<br>
 If you are in this tab you do not need to type /p to chat in party chat just type the message!
 <br><br>
 Misc:<br>
