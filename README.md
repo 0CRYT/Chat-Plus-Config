@@ -44,7 +44,7 @@ Private Messages:<br>
 If you type /msg "NAME" or someone else send you a /msg message, a new chat tab will open.<br>
 If you are in this tab you do not need to type /r to chat with the person just type the message!
 <br><br>
-Installation
+Installation<br><br>
 Place the following file:
 <br><br>
 chatplus-v2.5.0.json
