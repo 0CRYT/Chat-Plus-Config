@@ -2,7 +2,7 @@ Cobbelmon Delta ChatPlus Configs
 
 Features
 
-Special Spawns:
+Special Spawns:<br>
 Displays the following special events/spawns in this chat window:
 
 Nihilego Loot spawn message<br>
