@@ -41,7 +41,7 @@ Login:<br>
 All login messages will be displayed in this tab
 <br><br>
 Private Messages:<br>
-If you type /msg "NAME" or someone else send you a /msg message, a new chat tab will open.
+If you type /msg "NAME" or someone else send you a /msg message, a new chat tab will open.<br>
 If you are in this tab you do not need to type /r to chat with the person just type the message!
 <br><br>
 Installation
